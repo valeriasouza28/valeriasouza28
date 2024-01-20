@@ -3,19 +3,22 @@
   <strong> Estudando :</strong>
   <ul>
     <li>
-      React
+      Java
     </li>
     <li>
-      Node
-    </li>
-    <li>
-      Css
-    </li>
-    <li>
-      Typescript
+      Spring
     </li>
     <li>
       Sql
+    </li>
+    <li>
+      Clean Code
+    </li>
+    <li>
+      Design Patterns
+    </li>
+    <li>
+      Kotlin Backend
     </li>
   </ul>
 </div>
